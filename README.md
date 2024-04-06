@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-B1361E.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">📘Study📘</h3>
