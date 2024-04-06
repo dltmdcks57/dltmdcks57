@@ -1,9 +1,6 @@
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome_to_my_github&fontSize=70)<br>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seung-chan&show_icons=true&theme=radical) <br>
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldud2072)](https://solved.ac/dldud2072/)
-   
-   
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome_to_my_github&fontSize=70)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seung-chan&show_icons=true&theme=radical) <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldud2072)](https://solved.ac/dldud2072/)
 <h3 align="center">✨ Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
