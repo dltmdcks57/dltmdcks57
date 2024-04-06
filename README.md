@@ -1,6 +1,8 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20world!&fontSize=70)
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seung-chan&show_icons=true&theme=radical) 
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldud2072)](https://solved.ac/dldud2072/)
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seung-chan&show_icons=true&theme=radical) 
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldud2072)](https://solved.ac/dldud2072/)
+   
+   
 
 <h3 align="center">✨ Stack ✨</h3>
 <div align="center">
